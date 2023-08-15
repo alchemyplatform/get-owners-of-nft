@@ -1,5 +1,6 @@
 ## Overview
 This repository contains a JavaScript script that utilizes Alchemy's SDK to fetch the owner(s) of a NFT given a contract address and token ID. To see more details, refer to the [Alchemy API reference](https://docs.alchemy.com/reference/getownersfortoken).
+
 In this example, this script is set up to fetch the owner of a Safe Haven NFT (tokenId = 4254) in the TimePieces collection. You can change the NFT contract address and tokenID on lines 13 and 16, respectively.
 
 ## Steps to Run
