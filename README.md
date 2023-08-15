@@ -18,7 +18,7 @@ Follow these steps to run the script:
    - `npm i alchemy-sdk dotenv`
    - `yarn add alchemy-sdk dotenv`
   
-4. Open the `sample.env` file and update the value for the API Key to your own value and rename file to `.env`. If you don't have an Alchemy API Key yet you can [create one for free here](https://alchemy.com/?a=starter-code).
+4. Open the `sample.env` file and update the value for the API Key to your own value and rename file to `.env`. If you don't have an Alchemy API Key yet you can [create one for free here](https://alchemy.com/?a=starter-code). Simply make an account and find the "Access Keys" section in the dashboard to generate your own key!
 
 5. Open `getOwners.js` and update the value of the contract address on line 13 and the token ID on line 16 to reflect the NFT that you will be querying. 
 
